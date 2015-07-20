@@ -1,1 +1,1 @@
-# code-jam-haskell
+Some solutions for google code jam problems (https://code.google.com/codejam/)
